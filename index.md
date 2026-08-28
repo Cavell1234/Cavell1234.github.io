@@ -1,5 +1,5 @@
 # ItsCavells Main Website
-This is my website for many things such as my [`Mnecraft Server`](https://empirecraftmc.github.io), my [`projects`](https://discord.gg/A3REwMjCS6) and more!
+This is my website for many things such as my [`Minecraft Server`](https://empirecraftmc.github.io), my [`projects`](https://discord.gg/A3REwMjCS6) and more!
 ## Info
 I make addons, maps, texture packs, apps, and stuff like that when I am bored. idk what else to say here but yeah.
 ## EmpireCraft
