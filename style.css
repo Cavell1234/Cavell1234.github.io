@@ -1,5 +1,41 @@
 body {
-  background-color: #333333 !important;
+  background: #333333 !important;
+  color: #ffffff !important;
+}
+
+.site-header {
+  background: #333333 !important;
+  border-top-color: #333333 !important;
+  border-bottom-color: #555555 !important;
+}
+
+.site-title,
+.site-nav .page-link {
+  color: #ffffff !important;
+}
+
+.site-nav .nav-trigger + label {
+  background: #333333 !important;
+  color: #ffffff !important;
+}
+
+.site-nav .menu-icon > svg {
+  fill: #ffffff !important;
+}
+
+.site-nav .trigger {
+  background: #333333 !important;
+}
+
+.site-nav .page-link {
+  color: #ffffff !important;
+}
+
+pre,
+code,
+.highlighter-rouge,
+.highlight {
+  background: #444444 !important;
   color: #ffffff !important;
 }
 
@@ -11,9 +47,11 @@ a:hover {
   color: #79c0ff !important;
 }
 
-code,
-pre,
-.highlight {
-  background-color: #444444 !important;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #ffffff !important;
 }
