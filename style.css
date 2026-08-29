@@ -10,3 +10,10 @@ a {
 a:hover {
   color: #79c0ff !important;
 }
+
+code,
+pre,
+.highlight {
+  background-color: #444444 !important;
+  color: #ffffff !important;
+}
