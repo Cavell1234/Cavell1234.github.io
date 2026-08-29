@@ -1,12 +1,12 @@
 body {
-  background-color: #333333;
-  color: #ffffff;
+  background-color: #333333 !important;
+  color: #ffffff !important;
 }
 
 a {
-  color: #58a6ff;
+  color: #58a6ff !important;
 }
 
 a:hover {
-  color: #79c0ff;
+  color: #79c0ff !important;
 }
