@@ -34,6 +34,10 @@ pre,
   color: white !important;
 }
 
+.site-footer {
+  display: none !important;
+}
+
 a {
   color: #58a6ff !important;
 }
