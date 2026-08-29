@@ -1,2 +1,5 @@
 theme: minima
 title: ItsCavell
+header_pages:
+  - index.md
+  - projects.md
